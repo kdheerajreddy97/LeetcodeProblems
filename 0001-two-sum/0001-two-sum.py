@@ -6,8 +6,8 @@ class Solution:
             diff = target-key
             if diff in dict:
                 return [i,dict[diff]]
-            dict[key] = i
             
+            dict[key] = i
             
             
             
