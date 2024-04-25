@@ -14,7 +14,7 @@ class Solution:
             if nums[m] >= nums[l]:
                 l = m + 1
             else:
-                r = r - 1
+                r = m - 1
         return res
                 
                 
