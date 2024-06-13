@@ -1,13 +1,19 @@
 class Solution:
     def firstUniqChar(self, s: str) -> int:
-        my_dict = defaultdict(list)
-        for index, char in enumerate(s):
-            my_dict[char].append(index)
+        my_dict = {}
         
-        for key, values in my_dict.items():
-                if len(values) == 1:
-                    return values[0]
+        for letter in s:
+            if letter in my_dict:
+                my_dict[letter] += 1
+            else:
+                my_dict[letter] = 1
+        
+        for index in range(len(s)):
+            if my_dict[s[index]] == 1:
+                return index
         return -1
+            
+            
                 
             
         
