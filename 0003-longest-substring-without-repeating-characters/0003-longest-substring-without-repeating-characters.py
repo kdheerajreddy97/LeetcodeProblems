@@ -13,7 +13,4 @@ class Solution:
                 char_set.add(s[r])
                 max_length = max(max_length, r - l + 1)
                 r = r + 1
-            
-        
-  
         return max_length
