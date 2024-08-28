@@ -11,17 +11,16 @@ class Solution(object):
         :rtype: bool
         """
         
-        def check(node, left, right):
+        def isValid(node,left,right):
             
-            if not node: 
+            if not node:
                 return True
-                
-            if not (left < node.val and right > node.val):
+            if not (node.val > left and node.val < right):
                 return False
             
-            return (check(node.left, left, node.val) and 
-            check(node.right, node.val, right))
+            return (isValid(node.left, left, node.val) and isValid(node.right, node.val, right))
+         
+                    
+        return isValid(root, float("-inf"),float("inf"))
         
-        return check(root, float("-inf"), float("inf"))
-            
                 
