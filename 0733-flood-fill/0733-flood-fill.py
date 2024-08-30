@@ -3,6 +3,7 @@ class Solution:
         
         rows = len(image)
         columns = len(image[0])
+        directions = [[-1,0],[0,1],[1,0],[0,-1]]
         
         starting_pixel = image[sr][sc]
         
@@ -16,7 +17,7 @@ class Solution:
                 return
             
             image[sr][sc] = color
-            directions = [[-1,0],[0,1],[1,0],[0,-1]]
+            
             
             
             for dr, dc in directions:
