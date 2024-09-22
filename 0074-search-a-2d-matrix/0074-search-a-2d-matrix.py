@@ -14,6 +14,8 @@ class Solution:
             else:
                 break
                 
+        if not (top <= bottom):
+            return False
         
         l = 0
         r = columns -1
