@@ -3,6 +3,9 @@ class Solution:
         m = len(costs) 
         n = len(costs[0])
         
+        if not costs:
+            return 0
+        
         dp = [[0]*n for _ in range(m)]
         
         for j in range(n):
