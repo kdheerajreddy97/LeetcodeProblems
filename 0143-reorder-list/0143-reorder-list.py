@@ -28,9 +28,10 @@ class Solution:
             curr = temp
         
         
-    
+        slow.next = None
         first = head
         second = prev
+        
         while second.next:
             temp = first.next
             first.next = second
@@ -38,13 +39,6 @@ class Solution:
             first.next.next = temp
             first = temp
 
-        
-        # def reverse(slow):
-        #     while (slow.next != None):
-        #         prev = slow
-        #         slow = slow.next
-        #         slow.next = prev
-        #     return slow
             
             
             
