@@ -18,13 +18,13 @@ class Solution:
         if len(suffix) == 0:
             return True
             
-            #Check bounds
-        if i < 0 or i == self.m or j < 0 or j == self.n or self.board[i][j] != suffix[0]:
+        #Check bounds
+        if i < 0 or i >= self.m or j < 0 or j >= self.n or self.board[i][j] != suffix[0]:
             return False
             
         self.board[i][j] = "#"
             
-            #Recurse
+        #Recurse
         for x, y in directions:
             if self.helper(i+x, j+y, suffix[1:]):
                 return True
