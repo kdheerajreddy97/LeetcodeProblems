@@ -22,7 +22,7 @@ class Solution:
         if i < 0 or i >= self.m or j < 0 or j >= self.n or self.board[i][j] != suffix[0]:
             return False
             
-        self.board[i][j] = "#"
+        temp, self.board[i][j] = self.board[i][j], "#"
             
         #Recurse
         for x, y in directions:
@@ -30,6 +30,7 @@ class Solution:
                 return True
                 
         self.board[i][j] = suffix[0]
+        self.board[i][j] = temp
         return False
             
             
