@@ -26,11 +26,11 @@ class Solution {
                     return Math.min(R1,R2);
                 }
             }
-            else if (L2 > R1){
-                low = partX + 1;
+            else if (L1 > R2){
+                high = partX -1;
             }
             else{
-              high = partX - 1  ;
+              low = partX + 1;
             }
             
         }
