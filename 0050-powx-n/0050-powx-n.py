@@ -34,8 +34,6 @@ class Solution:
             
             result = self.myPow(x,n//2)
             
-
-                
             
             if n % 2 == 0:
                 return result * result
