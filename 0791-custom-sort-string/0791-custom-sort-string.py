@@ -1,5 +1,5 @@
 #Brute force way takes O(n!) time complexity as we need to generate all the possible permutation of source string
-#More optimized way woud be this with O(n) time complexity
+#More optimized way woud be this with O(n+m) time complexity
 class Solution:
     def customSortString(self, order: str, s: str) -> str:
         count = {}
