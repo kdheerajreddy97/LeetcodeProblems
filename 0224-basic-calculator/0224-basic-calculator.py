@@ -31,12 +31,12 @@ class Solution:
                 elif lastsign == '-':
                     calcval -= currval
                     tail = -currval
-                elif lastsign == '*':
-                    calcval = (calcval - tail) + (tail * currval)
-                    tail = tail * currval
-                elif lastsign == '/':
-                    calcval = (calcval - tail) + int (tail / currval)
-                    tail = int(tail / currval)
+                # elif lastsign == '*':
+                #     calcval = (calcval - tail) + (tail * currval)
+                #     tail = tail * currval
+                # elif lastsign == '/':
+                #     calcval = (calcval - tail) + int (tail / currval)
+                #     tail = int(tail / currval)
                     
                 if c == ')':
                     return calcval
