@@ -10,31 +10,56 @@ class Node:
         self.random = random
 """
 # Two Pass
+# class Solution:
+#     def copyRandomList(self, head: 'Optional[Node]') -> 'Optional[Node]':
+        
+#         if not head:
+#             return None
+#         dict = {}
+        
+#         curr = head
+        
+#         while curr:
+#             dict[curr] = Node(curr.val)
+#             curr = curr.next
+            
+#         curr = head
+        
+#         while curr:
+#             if curr.next:
+#                 dict[curr].next = dict[curr.next]
+            
+#             if curr.random:
+#                 dict[curr].random = dict[curr.random]
+            
+#             curr = curr.next
+        
+#         return dict[head]
+        
+# Single Pass
 class Solution:
     def copyRandomList(self, head: 'Optional[Node]') -> 'Optional[Node]':
         
         if not head:
             return None
         dict = {}
-        
         curr = head
         
         while curr:
-            dict[curr] = Node(curr.val)
-            curr = curr.next
+            if curr not in dict:
+                dict[curr] = Node(curr.val)
             
-        curr = head
-        
-        while curr:
-            if curr.next:
+            if curr.next: 
+                if curr.next not in dict:
+                    dict[curr.next] = Node(curr.next.val)
                 dict[curr].next = dict[curr.next]
-            
+                
             if curr.random:
+                if curr.random not in dict:
+                    dict[curr.random] = Node(curr.random.val)
                 dict[curr].random = dict[curr.random]
             
             curr = curr.next
-        
+                
         return dict[head]
-        
-        
         
