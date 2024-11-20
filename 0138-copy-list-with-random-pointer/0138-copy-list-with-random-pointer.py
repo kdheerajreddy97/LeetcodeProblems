@@ -67,7 +67,7 @@ class Node:
 # This basically involves three steps
 # Step1: Interweave the Original and Copied nodes
 # Step2: Assign the Random pointers to the Copied nodes
-# Step3: Separate original and copied lists and return the copied list
+# Step3: Separate the copied list and return the copied list
 
 class Solution:
     def copyRandomList(self, head: 'Optional[Node]') -> 'Optional[Node]':
