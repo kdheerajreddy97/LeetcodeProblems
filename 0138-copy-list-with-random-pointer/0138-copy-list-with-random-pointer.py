@@ -37,29 +37,82 @@ class Node:
 #         return dict[head]
         
 # Single Pass
+# class Solution:
+#     def copyRandomList(self, head: 'Optional[Node]') -> 'Optional[Node]':
+        
+#         if not head:
+#             return None
+#         dict = {}
+#         curr = head
+        
+#         while curr:
+#             if curr not in dict:
+#                 dict[curr] = Node(curr.val)
+            
+#             if curr.next: 
+#                 if curr.next not in dict:
+#                     dict[curr.next] = Node(curr.next.val)
+#                 dict[curr].next = dict[curr.next]
+                
+#             if curr.random:
+#                 if curr.random not in dict:
+#                     dict[curr.random] = Node(curr.random.val)
+#                 dict[curr].random = dict[curr.random]
+            
+#             curr = curr.next
+                
+#         return dict[head]
+    
+# Single Pass - No HashMap
+# This basically involves three steps
+# Step1: Interweave the Original and Copied nodes
+# Step2: Assign the Random pointers to the Copied nodes
+# Step3: Separate original and copied lists and return the copied list
+
 class Solution:
     def copyRandomList(self, head: 'Optional[Node]') -> 'Optional[Node]':
         
         if not head:
             return None
-        dict = {}
+        # Step1
         curr = head
-        
         while curr:
-            if curr not in dict:
-                dict[curr] = Node(curr.val)
-            
-            if curr.next: 
-                if curr.next not in dict:
-                    dict[curr.next] = Node(curr.next.val)
-                dict[curr].next = dict[curr.next]
-                
+            copy = Node(curr.val)
+            copy.next = curr.next
+            curr.next = copy
+            curr = copy.next
+        
+        # Step2
+        curr = head
+        while curr:
             if curr.random:
-                if curr.random not in dict:
-                    dict[curr.random] = Node(curr.random.val)
-                dict[curr].random = dict[curr.random]
+                curr.next.random = curr.random.next
+            curr = curr.next.next
+        
+        #Step 3
+        curr = head
+        copy_curr = head.next
+        while copy_curr:
+            if copy_curr.next:
+                copy_curr.next = copy_curr.next.next
+            copy_curr = copy_curr.next 
             
-            curr = curr.next
-                
-        return dict[head]
+        return head.next
+            
+            
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
         
