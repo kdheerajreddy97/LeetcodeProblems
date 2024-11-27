@@ -15,12 +15,13 @@ class Solution:
         # Find the range of numbers
         min_val = min(nums)
         max_val = max(nums)
+        take = True 
         
         # Create buckets for the range [min_val, max_val]
         offset = -min_val  # Offset to handle negative indices
         buckets = [0] * (max_val - min_val + 1)
         res = 0
-        take = True  # Toggle to decide whether to take the number for the sum
+        carry = 0
         
         # Count occurrences of each number
         for num in nums:
@@ -33,5 +34,6 @@ class Solution:
                     res += i - offset  # Convert bucket index back to the original number
                 take = not take  # Toggle for pairing
                 buckets[i] -= 1
+
         
         return res
