@@ -12,7 +12,7 @@ class Solution:
         # Identify next largest than i and swap
         j = n-1
         if i >=0:
-            while nums[i] >= nums[j] and j >= 0:
+            while nums[i] >= nums[j]:
                 j -= 1
             self.swap(i, j, nums)
                 
