@@ -45,6 +45,7 @@ class SnakeGame:
         self.snake_set.add(new_head)
         
         return self.score
+    # Note: Use linkedlist next time you visit this question
         
         
 
