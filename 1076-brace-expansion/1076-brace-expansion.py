@@ -17,6 +17,7 @@ class Solution:
                         temp_list.append(s[i])
                         i += 1
                 i += 1
+                # Make sure to sort
                 res.append(sorted(temp_list))
             else:
                 res.append([s[i]])
