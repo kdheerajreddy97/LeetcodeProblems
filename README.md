@@ -15,4 +15,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1300-critical-connections-in-a-network) |
+## String
+|  |
+| ------- |
+| [1076-brace-expansion](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1076-brace-expansion) |
+## Backtracking
+|  |
+| ------- |
+| [1076-brace-expansion](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1076-brace-expansion) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1076-brace-expansion](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1076-brace-expansion) |
 <!---LeetCode Topics End-->
