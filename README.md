@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0044-wildcard-matching) |
+| [1051-shortest-way-to-form-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1051-shortest-way-to-form-string) |
 | [1076-brace-expansion](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1076-brace-expansion) |
 ## Backtracking
 |  |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0044-wildcard-matching](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0044-wildcard-matching) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1051-shortest-way-to-form-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1051-shortest-way-to-form-string) |
 ## Recursion
 |  |
 | ------- |
@@ -45,4 +47,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+## Two Pointers
+|  |
+| ------- |
+| [1051-shortest-way-to-form-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1051-shortest-way-to-form-string) |
+## Binary Search
+|  |
+| ------- |
+| [1051-shortest-way-to-form-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1051-shortest-way-to-form-string) |
 <!---LeetCode Topics End-->
