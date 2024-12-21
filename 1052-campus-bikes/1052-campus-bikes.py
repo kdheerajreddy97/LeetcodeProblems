@@ -1,11 +1,13 @@
 # Two Approaches:
 # 1. Heaps
 # 2. Bucket Sort or HashMap
+# Time: O(m*n + k* logk); Space: O(n*m)
 class Solution:
     def assignBikes(self, workers: List[List[int]], bikes: List[List[int]]) -> List[int]:
         map = {}
         m = len(bikes)
         n = len(workers)
+        # Step 1: Create a dictionary to store distances
         for i in range(len(workers)):
             for j in range(len(bikes)):
                 dist = self.calculate_dist(workers[i], bikes[j])
@@ -13,10 +15,12 @@ class Solution:
                     map[dist].append((i,j))
                 else:
                     map[dist] = [(i,j)]
-        
-        bikes_visited = set()
+        # Step 2: Initialize result array and visited sets
+        bikes_visited = set() 
         workers_visited = set()
-        res = [-1] * n
+        # Stores the bike assigned to each worker
+        res = [-1] * n 
+        # Step 3: Process distances in ascending order
         for key in sorted(map.keys()):
             for val in map[key]:
                 worker = val[0]
@@ -27,14 +31,7 @@ class Solution:
                     bikes_visited.add(bike)
 
         return res
-                
-
-        
-
-
-
-
-
+    # Calculate Manhattan distance
     def calculate_dist(self, worker, bike):
         x = abs(worker[0] - bike[0])
         y = abs(worker[1] - bike[1])
