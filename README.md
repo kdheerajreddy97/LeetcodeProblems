@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1052-campus-bikes](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1052-campus-bikes) |
+| [1382-calculate-amount-paid-in-taxes](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1382-calculate-amount-paid-in-taxes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1119-robot-bounded-in-circle](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1119-robot-bounded-in-circle) |
+| [1382-calculate-amount-paid-in-taxes](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1382-calculate-amount-paid-in-taxes) |
 ## Sorting
 |  |
 | ------- |
