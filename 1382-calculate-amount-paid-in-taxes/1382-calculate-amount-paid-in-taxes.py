@@ -1,3 +1,4 @@
+# Time Complexity: O(n); Space: O(1)
 class Solution:
     def calculateTax(self, brackets: List[List[int]], income: int) -> float:
 
