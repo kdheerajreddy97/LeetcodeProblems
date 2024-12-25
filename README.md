@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0029-divide-two-integers) |
 | [0264-ugly-number-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0264-ugly-number-ii) |
 | [1119-robot-bounded-in-circle](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1119-robot-bounded-in-circle) |
 ## Simulation
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0029-divide-two-integers) |
 | [0187-repeated-dna-sequences](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0187-repeated-dna-sequences) |
 ## Sliding Window
 |  |
