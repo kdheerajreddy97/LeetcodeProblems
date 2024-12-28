@@ -6,6 +6,7 @@
 #         self.left = left
 #         self.right = right
 # Approach 1: BFS
+# Time Complexity: O(N); Space Complexity: O(N)
 # class Solution:
 #     def verticalOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
 #         dict = defaultdict(list)
@@ -36,7 +37,8 @@
 #             res.append(dict[i])
 #         return res
 
-# Approach 2: DFS    
+# Approach 2: DFS; 
+# Time Complexity: O(N)(DFS)+O(N)(inserts)+O(NlogN)(sorting)=O(NlogN); Space Complexity: O(N)
 class Solution:
     def verticalOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
         res = []
