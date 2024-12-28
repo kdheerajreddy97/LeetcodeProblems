@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [1300-critical-connections-in-a-network](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1300-critical-connections-in-a-network) |
 ## Graph
 |  |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [1076-brace-expansion](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1076-brace-expansion) |
 ## Dynamic Programming
 |  |
@@ -75,12 +77,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [1052-campus-bikes](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1052-campus-bikes) |
 ## Hash Table
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0187-repeated-dna-sequences) |
 | [0264-ugly-number-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0264-ugly-number-ii) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0314-binary-tree-vertical-order-traversal) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -102,4 +106,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0264-ugly-number-ii) |
+## Tree
+|  |
+| ------- |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0314-binary-tree-vertical-order-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0314-binary-tree-vertical-order-traversal) |
 <!---LeetCode Topics End-->
