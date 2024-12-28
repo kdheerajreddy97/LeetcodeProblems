@@ -5,34 +5,70 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+# Approach 1: BFS
+# class Solution:
+#     def verticalOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
+#         dict = defaultdict(list)
+#         index = 0
+#         if not root:
+#             return []
+#         q = deque([[root,0]])
+#         dict[0].append(root.val)
+#         min_index = 0
+#         max_index = 0
+#         res = []
+#         # level order traversal
+#         while q:
+#             for i in range(len(q)):
+#                 [node, i] = q.popleft()
+#                 if node.left:
+#                     a = i - 1
+#                     q.append([node.left,a])
+#                     dict[a].append(node.left.val)
+#                     min_index = min(a, min_index)
+#                 if node.right:
+#                     b = i + 1
+#                     q.append([node.right,b])
+#                     dict[b].append(node.right.val)
+#                     max_index = max(b, max_index)
+#         # Bucket Sort
+#         for i in range(min_index, max_index + 1):
+#             res.append(dict[i])
+#         return res
+
+# Approach 2: DFS    
 class Solution:
     def verticalOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
-        dict = defaultdict(list)
-        index = 0
+        res = []
         if not root:
             return []
-        q = deque([[root,0]])
-        dict[0].append(root.val)
-        min_index = 0
-        max_index = 0
-        res = []
-        # level order traversal
-        while q:
-            for i in range(len(q)):
-                [node, i] = q.popleft()
-                if node.left:
-                    a = i - 1
-                    q.append([node.left,a])
-                    dict[a].append(node.left.val)
-                    min_index = min(a, min_index)
-                if node.right:
-                    b = i + 1
-                    q.append([node.right,b])
-                    dict[b].append(node.right.val)
-                    max_index = max(b, max_index)
+        dict = defaultdict(list)
+        self.min_col = 0
+        self.max_col = 0
+
+        def dfs(node, row, col):
+            # Base case
+            if not node:
+                return
+            # Add to dict list of row, node pairs
+            dict[col].append([row,node.val])
+            # Update min and amx
+            self.min_col = min(col, self.min_col)
+            self.max_col = max(col, self.max_col)
+            # Recurse
+            dfs(node.left, row + 1, col - 1)
+            dfs(node.right, row + 1, col + 1)
+
+        dfs(root,0,0)
+
         # Bucket Sort
-        for i in range(min_index, max_index + 1):
-            res.append(dict[i])
+        for i in range(self.min_col, self.max_col + 1):
+            temp = []
+            row_nodes = dict[i]
+            row_nodes = sorted(row_nodes, key = lambda x: x[0])
+            for row, node in row_nodes:
+                temp.append(node)
+            res.append(temp)
         return res
-        
-        
+
+
