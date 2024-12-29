@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1076-brace-expansion](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1076-brace-expansion) |
+| [1077-confusing-number-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1077-confusing-number-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0029-divide-two-integers](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0029-divide-two-integers) |
 | [0264-ugly-number-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0264-ugly-number-ii) |
+| [1077-confusing-number-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1077-confusing-number-ii) |
 | [1119-robot-bounded-in-circle](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1119-robot-bounded-in-circle) |
 ## Simulation
 |  |
