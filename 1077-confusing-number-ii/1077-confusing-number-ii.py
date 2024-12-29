@@ -27,8 +27,8 @@ class Solution:
             nonlocal count
             if num_str != "":
                 value = int(num_str)
-                # if value > n:
-                #     return
+                if value > n:
+                    return
                 if value != 0 and is_confusing(num_str):
                     count += 1
             
