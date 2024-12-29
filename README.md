@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0975-range-sum-of-bst](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0975-range-sum-of-bst) |
 | [1300-critical-connections-in-a-network](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1300-critical-connections-in-a-network) |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0044-wildcard-matching](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0044-wildcard-matching) |
 | [0187-repeated-dna-sequences](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0187-repeated-dna-sequences) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1051-shortest-way-to-form-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1051-shortest-way-to-form-string) |
 | [1076-brace-expansion](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1076-brace-expansion) |
 | [1119-robot-bounded-in-circle](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1119-robot-bounded-in-circle) |
@@ -33,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [1076-brace-expansion](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1076-brace-expansion) |
 ## Dynamic Programming
@@ -112,15 +115,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0975-range-sum-of-bst](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0975-range-sum-of-bst](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0975-range-sum-of-bst) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
