@@ -1,5 +1,5 @@
 # Brute force: Time O(n2); Space: O(1)
-# Monotonic Stack: 
+# Monotonic Stack
 class Solution:
     def largestRectangleArea(self, heights: List[int]) -> int:
         max_area = 0
