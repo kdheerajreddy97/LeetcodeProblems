@@ -67,8 +67,6 @@ class Solution:
                 else:
                     total += dfs(nested.getList(), depth + 1)
             return total
-                
-
 
         return dfs(nestedList, 1)
         
