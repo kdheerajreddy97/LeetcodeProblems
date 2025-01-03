@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0339-nested-list-weight-sum](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0339-nested-list-weight-sum) |
 | [0975-range-sum-of-bst](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0975-range-sum-of-bst) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1300-critical-connections-in-a-network) |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0339-nested-list-weight-sum](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0339-nested-list-weight-sum) |
 | [1076-brace-expansion](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1076-brace-expansion) |
 ## Dynamic Programming
 |  |
