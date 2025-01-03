@@ -40,21 +40,35 @@
 #        Return None if this NestedInteger holds a single integer
 #        :rtype List[NestedInteger]
 #        """
-# BFS - level order traversal; Time: O(N); Space: O(1)
+# BFS - level order traversal; Time: O(N); Space: O(N)
+# class Solution:
+#     def depthSum(self, nestedList: List[NestedInteger]) -> int:
+#         q = deque(nestedList)
+#         total = 0
+#         level = 1
+#         while q:
+#             for i in range(len(q)):
+#                 temp = q.popleft()
+#                 if temp.isInteger():
+#                     total += temp.getInteger() * level
+#                 else:
+#                     q.extend(temp.getList())
+#             level += 1
+#         return total
+
+# DFS - Recursion; Time: O(N); Space: O(N)
 class Solution:
     def depthSum(self, nestedList: List[NestedInteger]) -> int:
-        q = deque(nestedList)
-        total = 0
-        level = 1
-        while q:
-            for i in range(len(q)):
-                temp = q.popleft()
-                if temp.isInteger():
-                    total += temp.getInteger() * level
+        def dfs(nestedList, depth):
+            total = 0
+            for nested in nestedList:
+                if nested.isInteger():
+                    total += nested.getInteger() * depth
                 else:
-                    q.extend(temp.getList())
-            level += 1
-        return total
+                    total += dfs(nested.getList(), depth + 1)
+            return total
+                
 
 
+        return dfs(nestedList, 1)
         
