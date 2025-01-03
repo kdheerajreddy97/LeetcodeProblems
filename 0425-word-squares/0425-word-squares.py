@@ -52,7 +52,8 @@ class Solution:
     def dfs(self, path, words,trie):
         # Base Case
         if len(path) == len(words[0]):
-            self.result.append(path[:])
+            self.result.append(path[:]) # Deep copy of path
+            # self.result.append(list(path)) # This also works
             return
 
         # Logic
