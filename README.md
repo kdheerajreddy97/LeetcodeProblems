@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0044-wildcard-matching) |
 | [0187-repeated-dna-sequences](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0187-repeated-dna-sequences) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0425-word-squares](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0425-word-squares) |
 | [0974-reorder-data-in-log-files](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0974-reorder-data-in-log-files) |
 | [0990-verifying-an-alien-dictionary](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0990-verifying-an-alien-dictionary) |
 | [1051-shortest-way-to-form-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1051-shortest-way-to-form-string) |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0425-word-squares](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0425-word-squares) |
 | [1076-brace-expansion](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1076-brace-expansion) |
 | [1077-confusing-number-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1077-confusing-number-ii) |
 ## Breadth-First Search
@@ -63,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0347-top-k-frequent-elements](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
+| [0425-word-squares](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0425-word-squares) |
 | [0974-reorder-data-in-log-files](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0974-reorder-data-in-log-files) |
 | [0990-verifying-an-alien-dictionary](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0990-verifying-an-alien-dictionary) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -169,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 |  |
 | ------- |
+| [0425-word-squares](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0425-word-squares) |
 | [1080-camelcase-matching](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1080-camelcase-matching) |
 ## String Matching
 |  |
