@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0044-wildcard-matching) |
+| [1033-broken-calculator](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1033-broken-calculator) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1051-shortest-way-to-form-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1051-shortest-way-to-form-string) |
 | [1052-campus-bikes](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1052-campus-bikes) |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0029-divide-two-integers](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0029-divide-two-integers) |
 | [0264-ugly-number-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0264-ugly-number-ii) |
+| [1033-broken-calculator](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1033-broken-calculator) |
 | [1077-confusing-number-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1077-confusing-number-ii) |
 | [1119-robot-bounded-in-circle](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1119-robot-bounded-in-circle) |
 ## Simulation
