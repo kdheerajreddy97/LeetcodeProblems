@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0029-divide-two-integers](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0029-divide-two-integers) |
 | [0187-repeated-dna-sequences](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0187-repeated-dna-sequences) |
+| [0190-reverse-bits](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0190-reverse-bits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
