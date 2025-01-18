@@ -17,6 +17,7 @@
 class Solution:
     def rotate(self, nums: List[int], k: int) -> None:
         n = len(nums)
+        #Edge case - Dont forget
         k = k%n
         l = 0
         r = n - 1
