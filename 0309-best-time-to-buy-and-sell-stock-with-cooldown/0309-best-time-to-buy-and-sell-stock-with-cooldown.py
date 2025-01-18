@@ -1,7 +1,7 @@
 # Approach1: Exhaustive search -> Choose dont choose scenario
 # Approach2: using states for buy and sell (not optimized but will be helpful in memoization)
 # Approach3: Recursion with memoization - Bottom to top
-# Approach4: Tabulation
+# Approach4: Tabulation; Time: O(n); Space: O(n)
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         n = len(prices)
