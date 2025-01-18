@@ -13,14 +13,16 @@ class Solution:
         self.reverse(k, n, nums)
 
     def reverse(self, i,j, nums):
-        l = i
-        r = j-1
-        while l < r:
-            temp = nums[l]
-            nums[l] = nums[r]
-            nums[r] = temp
-            l += 1
-            r -= 1
+        # l = i
+        # r = j-1
+        # while l < r:
+        #     temp = nums[l]
+        #     nums[l] = nums[r]
+        #     nums[r] = temp
+        #     l += 1
+        #     r -= 1
+        arr = nums[i:j] 
+        nums[i:j] = arr[::-1]
 
 
     # def swap(self, arr):
