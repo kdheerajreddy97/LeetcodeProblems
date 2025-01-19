@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0347-top-k-frequent-elements](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0348-design-tic-tac-toe) |
@@ -245,4 +246,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0348-design-tic-tac-toe](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0348-design-tic-tac-toe) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
