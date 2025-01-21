@@ -3,25 +3,19 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        low = 0
-        high = len(nums) -1
-        mid = 0
+        if len(nums) == 1:
+            return nums
+        dict = {}
+        dict[0] = 0
+        dict[1] = 0
+        dict[2] = 0
+        for i in range(len(nums)):
+            dict[nums[i]] += 1
         
-        while (mid <= high):
-            if nums[mid] == 0:
-                temp = nums[low]
-                nums[low] = nums[mid]
-                nums[mid] = temp
-                
-                low += 1
-                mid += 1
-
-            elif nums[mid] == 1:
-                mid += 1
-            else:
-                temp = nums[high]
-                nums[high] = nums[mid]
-                nums[mid] = temp
-                
-                high -= 1
+        for i in range(dict[0]):
+            nums[i] = 0
+        for i in range(dict[0],dict[0]+ dict[1]):
+            nums[i] = 1
+        for i in range(dict[0]+ dict[1], dict[0]+ dict[1]+ dict[2]):
+            nums[i] = 2
         return nums
