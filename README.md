@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0277-find-the-celebrity](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0277-find-the-celebrity) |
 | [0680-valid-palindrome-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0680-valid-palindrome-ii) |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
