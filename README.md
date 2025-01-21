@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0044-wildcard-matching) |
 | [0187-repeated-dna-sequences](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0187-repeated-dna-sequences) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0015-3sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0277-find-the-celebrity](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0277-find-the-celebrity) |
@@ -237,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1080-camelcase-matching](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1080-camelcase-matching) |
 ## Stack
 |  |
