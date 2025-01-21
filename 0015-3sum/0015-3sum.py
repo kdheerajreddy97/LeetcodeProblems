@@ -8,7 +8,7 @@ class Solution:
             l = i+1
             r = len(nums) - 1
             while l<r:
-                threesum = n + nums[l] + nums [r]
+                threesum = n + nums[l] + nums[r]
                 if threesum < 0:
                     l+=1
                 elif threesum > 0:
