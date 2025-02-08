@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1382-calculate-amount-paid-in-taxes](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Two Pointers
 |  |
 | ------- |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0348-design-tic-tac-toe](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0348-design-tic-tac-toe) |
 | [1119-robot-bounded-in-circle](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1119-robot-bounded-in-circle) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1382-calculate-amount-paid-in-taxes) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Sorting
 |  |
 | ------- |
@@ -166,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0862-find-and-replace-in-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0862-find-and-replace-in-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0990-verifying-an-alien-dictionary) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Bit Manipulation
 |  |
 | ------- |
