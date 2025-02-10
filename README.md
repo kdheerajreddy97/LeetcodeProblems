@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1080-camelcase-matching](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1080-camelcase-matching) |
 | [1097-stream-of-characters](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1097-stream-of-characters) |
 | [1119-robot-bounded-in-circle](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1119-robot-bounded-in-circle) |
+| [3447-clear-digits](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/3447-clear-digits) |
 ## Backtracking
 |  |
 | ------- |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1119-robot-bounded-in-circle](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1119-robot-bounded-in-circle) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/3447-clear-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -262,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0716-max-stack](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0716-max-stack) |
+| [3447-clear-digits](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
