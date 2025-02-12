@@ -1,5 +1,5 @@
 # 2 Approaches: Bucket Sort or Heaps; For both we need to store the frequency of each element in dictionary
-# Approach 1: Bucket Sort
+# Approach 1: Bucket Sort; Time: O(n); Space: O(n)
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         # Space: O(n)
@@ -17,7 +17,7 @@ class Solution:
             bucket[val].append(key)
         
         res = []
-        
+        # Time: O(n)
         for i in range(len(bucket)-1, 0, -1):
             for n in bucket[i]:
                 res.append(n)
