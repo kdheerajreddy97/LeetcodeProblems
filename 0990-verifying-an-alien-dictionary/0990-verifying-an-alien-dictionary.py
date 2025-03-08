@@ -1,4 +1,5 @@
-# Approach: Consecutive elemeents comparision and use dicitionary to store the postions of order
+# Brute Force: O(N2*L)
+# Approach: Consecutive elements comparision and use dicitionary to store the postions of order
 # Time: O(N*L); Space: O(1)
 class Solution:
     def isAlienSorted(self, words: List[str], order: str) -> bool:
@@ -14,7 +15,7 @@ class Solution:
     def isordered(self, word1, word2, dict):
         minimum = min(len(word1), len(word2))
         for i in range(minimum):
-            # check if it is breaking i.e. not lexographical
+            # Check if it is breaking i.e. not lexographical
             if dict[word1[i]] > dict[word2[i]] :
                 return False
             # If it is lexographical at this position return True
