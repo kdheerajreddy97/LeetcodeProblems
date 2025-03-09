@@ -1,5 +1,6 @@
-# prereq: Course Schedule problem -> BFS Hashmap -> Indegree array
-# DFS using Course Schedule problem 
+# Approach1: prereq: Course Schedule problem -> BFS Hashmap -> Indegree array
+# Approach2: DFS using Course Schedule problem 
+# Approach1: O()
 from collections import deque
 from typing import List
 
@@ -72,16 +73,6 @@ class Solution:
                         self.indegree[pos] += 1
                     break
 
-
-
-
-
-
-
-
-
-
-        # Create adjacency list and Indegree list
         
 
         
