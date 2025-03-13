@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0050-powx-n) |
 ## Array
 |  |
 | ------- |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0264-ugly-number-ii) |
 | [1033-broken-calculator](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1033-broken-calculator) |
