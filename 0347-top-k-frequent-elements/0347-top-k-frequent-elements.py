@@ -1,23 +1,30 @@
-# Brute force
+# Using Heaps
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        dict = {}
+
+        minheap = []
+        n  = len(nums)
+        mydict = {}
         res = []
+
         for num in nums:
-            if num in dict:
-                dict[num] += 1
+            if num in mydict:
+                mydict[num] += 1
             else:
-                dict[num] = 1
+                mydict[num] = 1
         
+        for num, freq in mydict.items():
+            heapq.heappush(minheap, (freq,num))
+            if len(minheap) > k:
+                heapq.heappop(minheap)
         
-        my_dict = sorted(dict.items(), key = lambda item:item[1], reverse = True)
-       
-        for key,val in my_dict:
-            if k == 0:
-                return res
-            res.append(key)
-            k -= 1
+        for _ in range(len(minheap)):
+            res.append(minheap.pop()[1])
+        
         return res
+        
+
+        
 
 
 
