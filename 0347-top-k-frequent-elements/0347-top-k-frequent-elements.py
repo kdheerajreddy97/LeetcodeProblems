@@ -2,9 +2,8 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
 
-        minheap = []
-        n  = len(nums)
         mydict = {}
+        n = len(nums)
         res = []
 
         for num in nums:
@@ -13,18 +12,18 @@ class Solution:
             else:
                 mydict[num] = 1
         
-        for num, freq in mydict.items():
-            # Inserting in to minheap till k
-            heapq.heappush(minheap, (freq,num))
-            # start popping after k
-            if len(minheap) > k:
-                heapq.heappop(minheap)
+        buckets = [[] for i in range(n+1)]
+
+        for num,freq in mydict.items():
+            buckets[freq].append(num)
         
-        for freq, num in minheap:
-            res.append(num)
-        
-        return res
-        
+        for i in range(len(buckets)-1,-1,-1):
+            for n in buckets[i]:
+                res.append(n)
+                if len(res) == k:
+                    return res
+
+            
 
         
 
