@@ -1,4 +1,4 @@
-# Using Heaps
+# Using Heaps: min_heap: Time: O(nlogk); Space: O(n)
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
 
@@ -14,12 +14,14 @@ class Solution:
                 mydict[num] = 1
         
         for num, freq in mydict.items():
+            # Inserting in to minheap till k
             heapq.heappush(minheap, (freq,num))
+            # start popping after k
             if len(minheap) > k:
                 heapq.heappop(minheap)
         
-        for _ in range(len(minheap)):
-            res.append(minheap.pop()[1])
+        for freq, num in minheap:
+            res.append(num)
         
         return res
         
