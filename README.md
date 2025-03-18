@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0152-maximum-product-subarray) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0084-largest-rectangle-in-histogram) |
@@ -260,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
