@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0098-validate-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0200-number-of-islands) |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0199-binary-tree-right-side-view) |
@@ -251,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0199-binary-tree-right-side-view) |
@@ -311,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0716-max-stack](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0716-max-stack) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/3447-clear-digits) |
