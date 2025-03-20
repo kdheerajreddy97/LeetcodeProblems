@@ -30,7 +30,7 @@
 #         res.sort()
 #         return res[k-1]
     
-#Inorder traversal and find the kth element O(n)
+# Inorder traversal and find the kth element O(n)
 class Solution:
     def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
         res = []
@@ -38,11 +38,11 @@ class Solution:
             if node == None:
                 return
             
-            if node:
-                dfs(node.left)
+            # if node:
+            dfs(node.left)
             res.append(node.val)
-            if node:
-                dfs(node.right)
+            # if node:
+            dfs(node.right)
         
         dfs(root)
         
