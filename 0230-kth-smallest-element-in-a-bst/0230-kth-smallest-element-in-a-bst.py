@@ -38,11 +38,11 @@ class Solution:
             if node == None:
                 return
             
-            # if node:
-            dfs(node.left)
+            if node:
+                dfs(node.left)
             res.append(node.val)
-            # if node:
-            dfs(node.right)
+            if node:
+                dfs(node.right)
         
         dfs(root)
         
