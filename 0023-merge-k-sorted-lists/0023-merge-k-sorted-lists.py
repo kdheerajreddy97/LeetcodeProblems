@@ -14,19 +14,17 @@ class Solution:
         
         if len(lists) == 0:
             return None
-        
         for index, node in enumerate(lists):
             if node:
+                # sorting based on node.val, then index
                 heappush(min_heap,(node.val, index, node))
         
         dummy = ListNode()
         curr = dummy
-        
         while min_heap:
             val, index, node = heappop(min_heap)
             curr.next = node
             curr = curr.next
-            
             if node.next:
                 heappush(min_heap, (node.next.val, index, node.next))
         return dummy.next
@@ -52,7 +50,7 @@ class Solution:
 #         return lists[0]
                 
           
-    
+# Sorting 2 Lists at a time   
 #     def merge(self, list1: Optional[ListNode], list2: Optional[ListNode] ) -> Optional[ListNode]:
 #         dummy = ListNode()
 #         curr = dummy
