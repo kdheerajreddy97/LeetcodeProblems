@@ -1,13 +1,12 @@
-#Time complexity: NLog(k)
+#Time complexity: N + kLog(N)
 class Solution:
     def findKthLargest(self, nums: List[int], k: int ) -> int:
-        min_heap = []
-        
-        for i in range(len(nums)):
-            if len(min_heap) < k:
-                heappush(min_heap, nums[i])
-            elif min_heap[0] <= nums[i]:
-                heappop(min_heap)
-                heappush(min_heap, nums[i])
-        return heappop(min_heap)
+        max_heap = []
 
+        for num in nums:
+            heappush(max_heap, -num)
+        
+        for i in range(k-1):
+            heappop(max_heap)
+        return -heappop(max_heap)
+        
