@@ -1,4 +1,4 @@
-#Time complexity: N + kLog(N)
+# Using Max_heap: Time complexity: N + kLog(N)
 class Solution:
     def findKthLargest(self, nums: List[int], k: int ) -> int:
         max_heap = []
