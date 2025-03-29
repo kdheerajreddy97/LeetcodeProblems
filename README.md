@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0269-alien-dictionary](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0269-alien-dictionary) |
+| [0274-h-index](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0289-game-of-life) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0347-top-k-frequent-elements](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0274-h-index) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0658-find-k-closest-elements) |
@@ -380,4 +382,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0023-merge-k-sorted-lists) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
