@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0348-design-tic-tac-toe) |
 | [0425-word-squares](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0425-word-squares) |
+| [0498-diagonal-traverse](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0498-diagonal-traverse) |
 | [0658-find-k-closest-elements](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0658-find-k-closest-elements) |
 | [0862-find-and-replace-in-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0862-find-and-replace-in-string) |
 | [0974-reorder-data-in-log-files](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0974-reorder-data-in-log-files) |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0348-design-tic-tac-toe](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0348-design-tic-tac-toe) |
+| [0498-diagonal-traverse](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0498-diagonal-traverse) |
 | [1119-robot-bounded-in-circle](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1119-robot-bounded-in-circle) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -339,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0200-number-of-islands](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0348-design-tic-tac-toe](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0348-design-tic-tac-toe) |
+| [0498-diagonal-traverse](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0498-diagonal-traverse) |
 | [1036-rotting-oranges](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1036-rotting-oranges) |
 ## Prefix Sum
 |  |
