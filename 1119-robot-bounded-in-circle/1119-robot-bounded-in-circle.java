@@ -4,13 +4,13 @@ class Solution {
         int x = 0;
         int y = 0;
         int idx = 0;
-        for (char S: instructions.toCharArray()){
-            if (S == 'G'){
+        for (int i = 0; i < instructions.length(); i++){
+            if (instructions.charAt(i) == 'G'){
                 int[] dir = directions[idx];
                 x += dir[0];
                 y += dir[1];
             }
-            else if(S == 'L'){
+            else if(instructions.charAt(i) == 'L'){
                 idx = (idx + 1) % 4;
             }
             else{
