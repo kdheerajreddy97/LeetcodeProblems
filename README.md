@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0044-wildcard-matching](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0561-array-partition](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0680-valid-palindrome-ii) |
 | [1033-broken-calculator](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1033-broken-calculator) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0425-word-squares](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0425-word-squares) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0498-diagonal-traverse](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0498-diagonal-traverse) |
+| [0561-array-partition](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0561-array-partition) |
 | [0658-find-k-closest-elements](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0658-find-k-closest-elements) |
 | [0862-find-and-replace-in-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0862-find-and-replace-in-string) |
 | [0974-reorder-data-in-log-files](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0974-reorder-data-in-log-files) |
@@ -195,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0274-h-index](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0274-h-index) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
+| [0561-array-partition](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0561-array-partition) |
 | [0658-find-k-closest-elements](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0658-find-k-closest-elements) |
 | [0862-find-and-replace-in-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0862-find-and-replace-in-string) |
 | [0974-reorder-data-in-log-files](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0974-reorder-data-in-log-files) |
@@ -386,4 +389,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0274-h-index](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
