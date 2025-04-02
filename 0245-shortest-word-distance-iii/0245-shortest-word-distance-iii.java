@@ -24,7 +24,7 @@ class Solution {
         }
         
 
-        if (p1 != -1 & p2 != -1){
+        if (p1 != -1 && p2 != -1){
             dist = Math.min(dist, Math.abs(p1-p2));
         }
       } 
