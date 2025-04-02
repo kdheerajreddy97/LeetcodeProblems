@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0187-repeated-dna-sequences](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0205-isomorphic-strings) |
 | [0243-shortest-word-distance](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0243-shortest-word-distance) |
+| [0244-shortest-word-distance-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0244-shortest-word-distance-ii) |
 | [0245-shortest-word-distance-iii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0245-shortest-word-distance-iii) |
 | [0269-alien-dictionary](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0269-alien-dictionary) |
 | [0290-word-pattern](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0290-word-pattern) |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0243-shortest-word-distance](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0243-shortest-word-distance) |
+| [0244-shortest-word-distance-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0244-shortest-word-distance-ii) |
 | [0245-shortest-word-distance-iii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0245-shortest-word-distance-iii) |
 | [0269-alien-dictionary](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0269-alien-dictionary) |
 | [0274-h-index](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0274-h-index) |
@@ -161,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0189-rotate-array) |
+| [0244-shortest-word-distance-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0244-shortest-word-distance-ii) |
 | [0277-find-the-celebrity](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0277-find-the-celebrity) |
 | [0658-find-k-closest-elements](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0680-valid-palindrome-ii) |
@@ -222,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0205-isomorphic-strings) |
+| [0244-shortest-word-distance-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0244-shortest-word-distance-ii) |
 | [0264-ugly-number-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0290-word-pattern) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0314-binary-tree-vertical-order-traversal) |
@@ -297,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0244-shortest-word-distance-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0244-shortest-word-distance-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0348-design-tic-tac-toe](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0348-design-tic-tac-toe) |
 | [0716-max-stack](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0716-max-stack) |
