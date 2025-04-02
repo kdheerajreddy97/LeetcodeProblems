@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0205-isomorphic-strings) |
+| [0243-shortest-word-distance](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0243-shortest-word-distance) |
 | [0269-alien-dictionary](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0269-alien-dictionary) |
 | [0290-word-pattern](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0238-product-of-array-except-self) |
+| [0243-shortest-word-distance](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0243-shortest-word-distance) |
 | [0269-alien-dictionary](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0269-alien-dictionary) |
 | [0274-h-index](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0289-game-of-life) |
