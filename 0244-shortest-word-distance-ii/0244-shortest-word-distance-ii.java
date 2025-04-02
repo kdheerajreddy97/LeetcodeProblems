@@ -16,11 +16,11 @@ class WordDistance {
 
         int p1 = 0;
         int p2 = 0;
-        int m = list1.size();
+        int m = list1.size();// Arraylist so .size
         int n = list2.size();
         int min_dist = Integer.MAX_VALUE;
         while (p1 < m && p2 < n){
-            if (list1.get(p1)<list2.get(p2)){
+            if (list1.get(p1)<list2.get(p2)){ // Arraylist so .get
                 min_dist = Math.min(min_dist, list2.get(p2)-list1.get(p1));
                 p1++;
             }
