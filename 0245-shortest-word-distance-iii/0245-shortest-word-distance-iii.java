@@ -5,8 +5,8 @@ class Solution {
       int dist = Integer.MAX_VALUE;
 
       for (int i = 0; i< wordsDict.length; i++){
-        if (wordsDict[i].equals(word1)){
-            if (wordsDict[i].equals(word2)){
+        if (word1.equals(word2)){
+            if (wordsDict[i].equals(word1)){
                 if (p1<p2){
                     p1 = i;
                 }
@@ -14,14 +14,19 @@ class Solution {
                     p2 = i;
                 }
             }
-            else{
-                p1 = i;
-            }
         }
 
-        else if (wordsDict[i].equals(word2)){
-            p2 = i;
+        else{
+            if (wordsDict[i].equals(word1)){
+                p1 = i;
+            }
+            else if (wordsDict[i].equals(word2)){
+                p2 = i;
+            }
+
         }
+
+
         
 
         if (p1 != -1 && p2 != -1){
