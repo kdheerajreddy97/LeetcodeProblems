@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0084-largest-rectangle-in-histogram) |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0658-find-k-closest-elements](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0658-find-k-closest-elements) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
@@ -370,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0289-game-of-life) |
 | [0348-design-tic-tac-toe](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0348-design-tic-tac-toe) |
