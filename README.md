@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0347-top-k-frequent-elements](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0348-design-tic-tac-toe) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0425-word-squares](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0425-word-squares) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0498-diagonal-traverse](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0498-diagonal-traverse) |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0244-shortest-word-distance-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0244-shortest-word-distance-ii) |
 | [0277-find-the-celebrity](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0277-find-the-celebrity) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0680-valid-palindrome-ii) |
 | [1051-shortest-way-to-form-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1051-shortest-way-to-form-string) |
@@ -178,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0658-find-k-closest-elements) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
 | [1051-shortest-way-to-form-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1051-shortest-way-to-form-string) |
@@ -215,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0274-h-index](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0274-h-index) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0561-array-partition) |
 | [0658-find-k-closest-elements](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0658-find-k-closest-elements) |
 | [0862-find-and-replace-in-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0862-find-and-replace-in-string) |
@@ -237,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0314-binary-tree-vertical-order-traversal](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0348-design-tic-tac-toe) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0862-find-and-replace-in-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0862-find-and-replace-in-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0990-verifying-an-alien-dictionary) |
