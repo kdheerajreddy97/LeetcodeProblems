@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0498-diagonal-traverse](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0498-diagonal-traverse) |
 | [0561-array-partition](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0561-array-partition) |
 | [0658-find-k-closest-elements](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0658-find-k-closest-elements) |
+| [0739-daily-temperatures](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0739-daily-temperatures) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
 | [0862-find-and-replace-in-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0862-find-and-replace-in-string) |
 | [0974-reorder-data-in-log-files](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0974-reorder-data-in-log-files) |
@@ -359,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0716-max-stack](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0716-max-stack) |
+| [0739-daily-temperatures](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0739-daily-temperatures) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/3447-clear-digits) |
 ## Monotonic Stack
@@ -366,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0739-daily-temperatures) |
 ## Interactive
 |  |
 | ------- |
