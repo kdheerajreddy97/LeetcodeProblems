@@ -1,3 +1,6 @@
+#Any approach works: Binary search, Two pointers, Hashing, Sliding Window works
+# Two pointers and Sliding window are more optimized
+# time complexity: O(n)
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
 #         l = 0
@@ -21,7 +24,7 @@ class Solution:
         l = 0
         r = 1
         longest = 0
-        substr.add(s[l])
+        substr.add(s[l]) #O(1) only 26 max size
         while (r <= n-1):
             if s[r] in substr:
                 substr.remove(s[l])
@@ -29,7 +32,7 @@ class Solution:
             else:
                 substr.add(s[r])
                 r += 1
-            longest = max(longest, r-l)
+                longest = max(longest, r-l)
         return longest
                 
             
