@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0425-word-squares](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0425-word-squares) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0680-valid-palindrome-ii) |
 | [0807-custom-sort-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0807-custom-sort-string) |
 | [0862-find-and-replace-in-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0862-find-and-replace-in-string) |
@@ -251,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0348-design-tic-tac-toe) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0807-custom-sort-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0807-custom-sort-string) |
 | [0862-find-and-replace-in-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0862-find-and-replace-in-string) |
@@ -270,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0187-repeated-dna-sequences) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0658-find-k-closest-elements) |
 ## Rolling Hash
 |  |
