@@ -20,7 +20,6 @@ class Solution:
             i += 1
         
         while i < n and s[i].isdigit():
-            print(i)
             digit = int(s[i])
             if (result > INT_MAX //10) or (result == INT_MAX // 10 and digit > INT_MAX % 10):
                 if sign == 1:
