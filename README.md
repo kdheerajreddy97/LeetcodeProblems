@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0049-group-anagrams) |
+| [0131-palindrome-partitioning](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0187-repeated-dna-sequences](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0205-isomorphic-strings) |
 | [0243-shortest-word-distance](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0243-shortest-word-distance) |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0425-word-squares](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0425-word-squares) |
 | [1076-brace-expansion](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1076-brace-expansion) |
 | [1077-confusing-number-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1077-confusing-number-ii) |
@@ -89,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0131-palindrome-partitioning](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0264-ugly-number-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0264-ugly-number-ii) |
