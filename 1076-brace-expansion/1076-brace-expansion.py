@@ -1,58 +1,46 @@
-# DFS with backtracking
-# Time: O(k^m); Space: O(k^m)
 class Solution:
     def parse(self, s):
-        # Parsing the given string to List[Lists]
-        res = []
         n = len(s)
+        res = []
         i = 0
-        while i < len(s):
-            temp_list = []
+        while i < n:
+            templist = []
             if s[i] == "{":
                 i += 1
-                while s[i] != "}" and i < n-1:
+                templist.append(s[i])
+                i += 1
+                while s[i] != "}":
                     if s[i] == ",":
                         i += 1
                     else:
-                        temp_list.append(s[i])
+                        templist.append(s[i])
                         i += 1
                 i += 1
-                # Make sure to sort
-                res.append(sorted(temp_list))
             else:
-                res.append([s[i]])
+                templist.append(s[i])
                 i += 1
+            res.append(sorted(templist))
         return res
-    
 
-    # DFS + Backtracking to get the list of all possible strings
-    def dfs(self, i, path, options, result):
-        # Basecase
-        if i == len(options):
-            result.append("".join(path))
-            return
 
-        for option in options[i]:
-            path.append(option)
-            # Recurse
-            self.dfs(i+1, path, options, result)
-            # Backtrack
-            path.pop()
 
-    # Main function to call the parse(s) and pass the resulting array to dfs for backtrack
     def expand(self, s: str) -> List[str]:
+        res = []
         options = self.parse(s)
-        result = []
-        # Variables to pass - index, path to build and backtrack, option, result
-        self.dfs(0, [], options , result)
-        return result
 
+        def helper(path, pivot):
+            if pivot == len(options):
+                res.append("".join(path))
+                return
 
-        
-        
+            for option in options[pivot]:
+                path.append(option)
+                helper(path, pivot + 1)
+                path.pop()
 
-                        
-                    
+        helper([],0)
+        return res
+
 
 
         
