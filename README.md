@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0098-validate-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0199-binary-tree-right-side-view) |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0187-repeated-dna-sequences](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0205-isomorphic-strings) |
@@ -64,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0425-word-squares](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0425-word-squares) |
@@ -124,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0090-subsets-ii) |
@@ -407,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0289-game-of-life) |
 | [0348-design-tic-tac-toe](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0348-design-tic-tac-toe) |
