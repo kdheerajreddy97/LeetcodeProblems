@@ -23,6 +23,7 @@ class Solution:
         def helper(row):
             if row == n:
                 temp = []
+                # Append the board as a list to the res list
                 for rows in board:
                     temp.append("".join(rows))
                 res.append(temp)
