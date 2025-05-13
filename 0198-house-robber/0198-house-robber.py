@@ -1,4 +1,5 @@
-# Only one decision maming parameter
+# DP:Only one decision making parameter
+# Time: O(n); Space: O(n)
 class Solution:
     def rob(self, nums: List[int]) -> int:
         n = len(nums)
