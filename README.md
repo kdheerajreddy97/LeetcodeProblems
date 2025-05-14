@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0518-coin-change-ii) |
+| [0740-delete-and-earn](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0740-delete-and-earn) |
 ## Greedy
 |  |
 | ------- |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0636-exclusive-time-of-functions](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0636-exclusive-time-of-functions) |
 | [0658-find-k-closest-elements](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0658-find-k-closest-elements) |
 | [0739-daily-temperatures](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0740-delete-and-earn) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
 | [0862-find-and-replace-in-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0862-find-and-replace-in-string) |
 | [0974-reorder-data-in-log-files](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0974-reorder-data-in-log-files) |
@@ -278,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0740-delete-and-earn](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0740-delete-and-earn) |
 | [0807-custom-sort-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0807-custom-sort-string) |
 | [0862-find-and-replace-in-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0862-find-and-replace-in-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0990-verifying-an-alien-dictionary) |
