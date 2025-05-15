@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0221-maximal-square) |
 | [0256-paint-house](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0256-paint-house) |
 | [0264-ugly-number-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0264-ugly-number-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0221-maximal-square](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0243-shortest-word-distance](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0243-shortest-word-distance) |
 | [0244-shortest-word-distance-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0244-shortest-word-distance-ii) |
@@ -429,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0289-game-of-life) |
 | [0348-design-tic-tac-toe](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0348-design-tic-tac-toe) |
 | [0498-diagonal-traverse](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0498-diagonal-traverse) |
