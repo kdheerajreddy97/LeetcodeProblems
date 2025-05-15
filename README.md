@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0518-coin-change-ii) |
 | [0740-delete-and-earn](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0740-delete-and-earn) |
+| [1121-partition-array-for-maximum-sum](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1121-partition-array-for-maximum-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1080-camelcase-matching](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1080-camelcase-matching) |
 | [1097-stream-of-characters](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1097-stream-of-characters) |
+| [1121-partition-array-for-maximum-sum](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1121-partition-array-for-maximum-sum) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
