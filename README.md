@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0029-divide-two-integers](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0264-ugly-number-ii) |
 | [1033-broken-calculator](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1033-broken-calculator) |
@@ -473,4 +475,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0274-h-index](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0561-array-partition) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
