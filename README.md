@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0079-word-search) |
@@ -432,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0200-number-of-islands) |
