@@ -1,10 +1,20 @@
+# Bucket Sort
 class Solution:
     def findKthLargest(self, nums: List[int], k: int) -> int:
-        min_heap = []
+        min_val = min(nums)
+        max_val = max(nums)
+        n = len(nums)
+
+        buckets = [0] * (max_val - min_val + 1)
 
         for num in nums:
-            heapq.heappush(min_heap, num)
-            # Pop once heap size reaches k - N * LogK(Time)
-            if len(min_heap) > k:
-                heapq.heappop(min_heap)
-        return min_heap[0]
+            buckets[num - min_val] += 1
+        
+        for i in range(max_val - min_val, -1, -1):
+            while buckets[i] > 0:
+                buckets[i] -= 1
+                k -= 1
+                if k == 0:
+                    return i + min_val
+
+        
