@@ -20,7 +20,6 @@ class Solution:
         res = []
         # level order traversal
         while q:
-            for i in range(len(q)):
                 [node, i] = q.popleft()
                 if node.left:
                     a = i - 1
