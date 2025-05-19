@@ -472,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0023-merge-k-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0716-max-stack](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0716-max-stack) |
+| [0850-insert-into-a-sorted-circular-linked-list](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0850-insert-into-a-sorted-circular-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
