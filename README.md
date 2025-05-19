@@ -217,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0244-shortest-word-distance-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0244-shortest-word-distance-ii) |
 | [0277-find-the-celebrity](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0277-find-the-celebrity) |
+| [0295-find-median-from-data-stream](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0680-valid-palindrome-ii) |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0295-find-median-from-data-stream) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -333,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0264-ugly-number-ii) |
+| [0295-find-median-from-data-stream](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0658-find-k-closest-elements) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -372,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0244-shortest-word-distance-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0244-shortest-word-distance-ii) |
+| [0295-find-median-from-data-stream](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0348-design-tic-tac-toe](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0348-design-tic-tac-toe) |
 | [0716-max-stack](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0716-max-stack) |
@@ -439,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0295-find-median-from-data-stream) |
 | [1097-stream-of-characters](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1097-stream-of-characters) |
 ## Matrix
 |  |
