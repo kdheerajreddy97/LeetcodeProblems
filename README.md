@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0264-ugly-number-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0410-split-array-largest-sum) |
 | [0518-coin-change-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0518-coin-change-ii) |
 | [0740-delete-and-earn](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0740-delete-and-earn) |
 | [1121-partition-array-for-maximum-sum](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1121-partition-array-for-maximum-sum) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0044-wildcard-matching](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0680-valid-palindrome-ii) |
 | [1033-broken-calculator](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1033-broken-calculator) |
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0348-design-tic-tac-toe) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0410-split-array-largest-sum) |
 | [0425-word-squares](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0425-word-squares) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0498-diagonal-traverse](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0498-diagonal-traverse) |
@@ -233,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0658-find-k-closest-elements) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
 | [1051-shortest-way-to-form-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1051-shortest-way-to-form-string) |
@@ -465,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0410-split-array-largest-sum) |
 ## Union Find
 |  |
 | ------- |
