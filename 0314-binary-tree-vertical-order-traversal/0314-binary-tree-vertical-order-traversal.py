@@ -13,7 +13,8 @@ class Solution:
         index = 0
         if not root:
             return []
-        q = deque([[root,0]])
+        q = deque()
+        q.append([root,0])
         dict[0].append(root.val)
         min_index = 0
         max_index = 0
