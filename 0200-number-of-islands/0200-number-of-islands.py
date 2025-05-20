@@ -7,10 +7,6 @@ class Solution:
         no_of_islands = 0
 
         def dfs(r,c):
-            # base case
-            # if r >=m and c >= n:
-            #     return
-
             directions = [[0,-1],[-1,0],[0,1],[1,0]]
             for dir in directions:
                 dr, dc = dir[0], dir[1]
@@ -19,7 +15,6 @@ class Solution:
                         visited.add((r + dr, c + dc))
                         dfs(r + dr, c + dc)
                         
-
         for i in range(m):
             for j in range(n):
                 if (i,j) not in visited:
