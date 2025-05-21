@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0207-course-schedule) |
 | [0269-alien-dictionary](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0269-alien-dictionary) |
 | [0277-find-the-celebrity](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0277-find-the-celebrity) |
+| [1039-find-the-town-judge](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1039-find-the-town-judge) |
 | [1300-critical-connections-in-a-network](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1300-critical-connections-in-a-network) |
 ## Biconnected Component
 |  |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0974-reorder-data-in-log-files](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0974-reorder-data-in-log-files) |
 | [0990-verifying-an-alien-dictionary](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0990-verifying-an-alien-dictionary) |
 | [1036-rotting-oranges](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1036-rotting-oranges) |
+| [1039-find-the-town-judge](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1039-find-the-town-judge) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1052-campus-bikes](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1052-campus-bikes) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -311,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0862-find-and-replace-in-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0862-find-and-replace-in-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0990-verifying-an-alien-dictionary) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1039-find-the-town-judge](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1039-find-the-town-judge) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
