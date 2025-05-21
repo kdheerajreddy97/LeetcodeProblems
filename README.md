@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0680-valid-palindrome-ii) |
 | [0807-custom-sort-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0807-custom-sort-string) |
+| [0808-number-of-matching-subsequences](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0808-number-of-matching-subsequences) |
 | [0862-find-and-replace-in-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0862-find-and-replace-in-string) |
 | [0974-reorder-data-in-log-files](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0974-reorder-data-in-log-files) |
 | [0990-verifying-an-alien-dictionary](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0990-verifying-an-alien-dictionary) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0410-split-array-largest-sum) |
 | [0518-coin-change-ii](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0518-coin-change-ii) |
 | [0740-delete-and-earn](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0740-delete-and-earn) |
+| [0808-number-of-matching-subsequences](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0808-number-of-matching-subsequences) |
 | [1121-partition-array-for-maximum-sum](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1121-partition-array-for-maximum-sum) |
 ## Greedy
 |  |
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0740-delete-and-earn) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
+| [0808-number-of-matching-subsequences](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0808-number-of-matching-subsequences) |
 | [0862-find-and-replace-in-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0862-find-and-replace-in-string) |
 | [0974-reorder-data-in-log-files](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0974-reorder-data-in-log-files) |
 | [0990-verifying-an-alien-dictionary](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0990-verifying-an-alien-dictionary) |
@@ -241,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0658-find-k-closest-elements) |
 | [0786-search-in-a-sorted-array-of-unknown-size](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0786-search-in-a-sorted-array-of-unknown-size) |
+| [0808-number-of-matching-subsequences](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0808-number-of-matching-subsequences) |
 | [1051-shortest-way-to-form-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1051-shortest-way-to-form-string) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Math
@@ -282,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0561-array-partition) |
 | [0658-find-k-closest-elements](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0658-find-k-closest-elements) |
 | [0807-custom-sort-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0807-custom-sort-string) |
+| [0808-number-of-matching-subsequences](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0808-number-of-matching-subsequences) |
 | [0862-find-and-replace-in-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0862-find-and-replace-in-string) |
 | [0974-reorder-data-in-log-files](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0974-reorder-data-in-log-files) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -310,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0740-delete-and-earn](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0740-delete-and-earn) |
 | [0807-custom-sort-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0807-custom-sort-string) |
+| [0808-number-of-matching-subsequences](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0808-number-of-matching-subsequences) |
 | [0862-find-and-replace-in-string](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0862-find-and-replace-in-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0990-verifying-an-alien-dictionary) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -419,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0139-word-break) |
 | [0425-word-squares](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0425-word-squares) |
+| [0808-number-of-matching-subsequences](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/0808-number-of-matching-subsequences) |
 | [1080-camelcase-matching](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1080-camelcase-matching) |
 | [1097-stream-of-characters](https://github.com/kdheerajreddy97/LeetcodeProblems/tree/master/1097-stream-of-characters) |
 ## String Matching
